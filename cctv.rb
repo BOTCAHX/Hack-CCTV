@@ -1,4 +1,5 @@
-wah    system("xdg-open https://github.com/BOTCAHX");
+
+    system("xdg-open https://github.com/BOTCAHX");
 def ip()
     puts "════════════════════════════════════════════════════════════════";
     puts "http://119.2.50.116:90/#view";
@@ -44,7 +45,7 @@ def menu()
     puts "\033[33;1m╔════════════════════════════════════════════════╗"                                             ;
     puts "\033[33;1m║  \033[36;1m [•] Authour : TioXd                      \033[33;1m ║"
     puts "\033[33;1m║  \033[36;1m [•] gitHub  : https:github.com/BOTCAHX    \033[33;1m ║"
-    puts "\033[33;1m║  \033[36;1m [•] UserGH  : BOTCAHX                      \033[33;1m ║"
+    puts "\033[33;1m║  \033[36;1m [•] GHname  : BOTCAHX                      \033[33;1m ║"
     puts "\033[33;1m╚════════════════════════════════════════════════╝"
     puts ""
     puts "\033[36;1m╔═══════════════════════════╗"

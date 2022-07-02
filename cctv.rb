@@ -1,4 +1,4 @@
-    system("xdg-open https://github.com/BOTCAHX");
+wah    system("xdg-open https://github.com/BOTCAHX");
 def ip()
     puts "════════════════════════════════════════════════════════════════";
     puts "http://119.2.50.116:90/#view";
@@ -48,7 +48,7 @@ def menu()
     puts "\033[33;1m╚════════════════════════════════════════════════╝"
     puts ""
     puts "\033[36;1m╔═══════════════════════════╗"
-    puts "\033[36;1m║\033[33;1m GUNAKAN DENGAB BIJAK BANH\033[36;1m ║"
+    puts "\033[36;1m║\033[33;1m GUNAKAN DENGAN BIJAK BANH\033[36;1m ║"
     puts "\033[36;1m╚═══════════════════════════╝"
     puts "Ip Adres";
     ip

@@ -14,6 +14,6 @@
 > ls
 > ruby cctv.rb
 
-*/Akan muncul IP di sana salin dan oaste di terminal dan otomatis tersambung 
+*/Akan muncul IP di sana salin dan paste di terminal dan otomatis tersambung 
 ```
  
